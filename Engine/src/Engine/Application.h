@@ -4,7 +4,7 @@
 
 namespace Engine {
 
-	class ENGINE_API Application
+	class API Application
 	{
 	public:
 		Application();
